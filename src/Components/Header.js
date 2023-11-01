@@ -17,19 +17,9 @@ class Header extends Component {
         <ParticlesBg type="circle" bg={true} />
 
         <nav id="nav-wrap">
-          <a className="mobile-btn" href="#nav-wrap" title="Hide navigation">
-            
-          </a>
-          <a className="mobile-btn" href="#home" title="Hide navigation">
-            
-          </a>
 
-          <ul id="nav" className="nav">
-            <li className="current">
 
-            </li>
 
-          </ul>
         </nav>
 
         <div className="row banner">

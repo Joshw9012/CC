@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name":"Cloris Chen",
+    "description":"Thank your for your long-term companionship;",
+    "description1":"May you be forever filled with happiness and peace.",
+    "image":"",
+    "bio":"",
+    "contactmessage":"",
+    "email": "",
+    "phone": "",
+    "github":"",
+    "project":"",
+    "address":{
+      "line1":"",
+      "line2":"",
+      "line3":""
+    },
+    "youtube":{
+      "english": {
+      },
+      "chinese": {
+
+      }
+    },
+
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/daiwei920",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/CyberlarkCode",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"youtube-chinese",
+        "url":"https://www.youtube.com/channel/UCArZ1Su6EjdiEA0qrx1Pfqg",
+        "className":"fa fa-youtube-square"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin-square"
+      },
+      {
+        "name":"toutiao",
+        "url":"https://www.ixigua.com/home/1521358670931997/",
+        "className":"fa fa-weibo"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"University of Wollongong",
+        "degree":"Master of Computer Science with distinction",
+        "graduated":"2007 - 2009",
+        "description":""
+      },
+      {
+        "school":"AWS certification",
+        "degree":"AWS Certified Solutions Architect - Professional",
+        "graduated":"Dec 2021",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Cyberlark Studio",
+        "title":"Founder",
+        "years":"Augest 2005 - Present",
+        "description":"Our website was founded in August 2005, originally named D&M Studio. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Backend Development (Infrastructure, API, Database)",
+        "level":"95%"
+      },
+      {
+        "name":"Frontend Development (React, Angular)",
+        "level":"85%"
+      },
+      {
+        "name":"Embeded Software development (C/C++)",
+        "level":"80%"
+      },
+      {
+        "name":"Leadership & Management",
+        "level":"75%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Course",
+        "description": "如何在澳洲找IT工作",
+        "category": "Course",
+        "image":"00.png",
+        "url":"https://course.cyberlark.com.au/courses/it"
+      },
+      {
+        "title":"Project",
+        "description": "Investment Property Calculator",
+        "category": "Project",
+        "image":"04.png",
+        "url":"https://property.cyberlark.com.au/"
+      },
+      {
+        "title":"Video",
+        "description": "How to use Investment Property Calculator",
+        "category": "Video",
+        "image":"01.png",
+        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
+      },
+      {
+        "title":"Video",
+        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
+        "category":"Video",
+        "image":"02.png",
+        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
+      }
+    ]
+  }
+}

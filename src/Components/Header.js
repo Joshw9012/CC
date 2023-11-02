@@ -11,6 +11,7 @@ class Header extends Component {
     const name = this.props.data.name;
     const description = this.props.data.description;
     const description1 = this.props.data.description1;
+    const description2 = this.props.data.description2;
 
     return (
       <header id="home">

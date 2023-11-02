@@ -210,7 +210,7 @@
    header .social li { margin: 0 10px; }
 
     /* scrolldown link */
-   header .scrolldown { display: none; }
+   {/*header .scrolldown { display: none; }*/}
 
 
    /* About Section
@@ -345,7 +345,7 @@
 
    /* mobile navigation
    -------------------------------------------------------------------- */
-   #nav-wrap ul#nav { width: auto; float: none; }
+
 
    /* header styles
    -------------------------------------------------------------------- */
@@ -360,8 +360,7 @@
    }
   
    /* header social links */
-   header .social { font-size: 20px;}
-   header .social li { margin: 0 6px; }
+
 
    /* footer
    ------------------------------------------------------------------------ */
